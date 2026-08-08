@@ -18,6 +18,10 @@ Information about this dataset discovered using PYTHON in Jupyter Notebook
   
 •	The 403 rows seem to correspond to the 403 episdes
 
-•	According to this dataset, 17 Colors are used in Bob Ross’ paintings
+•	According to this dataset, 18 Colors are used in Bob Ross’ paintings
+
+•	The colors are 
 
 •	The top 5 colors used are: Titanium White, Alizarin Crimson, Van Dyke Brown, Cadmium Yellow, Yellow Ochre
+
+•	Average number of colors used per painting: 11
